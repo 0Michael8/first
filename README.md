@@ -1,2 +1,0 @@
-# first
-# projectb's README
